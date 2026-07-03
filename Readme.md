@@ -20,3 +20,12 @@ We publish deep dives into adversary behavior, cognitive warfare tactics, and lo
 * **[Subscribe to the Strategic Intelligence Feed on Substack](https://treadstone71.substack.com)**
 * **[Read the Cognitive Warfare Operational Blog on WordPress](https://cybershafarat.com)**
 
+---
+## Network Analysis & Cognitive Load Feeds
+
+Visualizing networks requires a steady pipeline of vetted threat data. We continuously deconstruct state-sponsored disinformation architecture, tracing campaigns back to their cultural and institutional roots. 
+
+Monitor shifting adversarial tendencies through our regular distributions:
+
+* **[Get Weekly Threat Network Breakdowns via Substack](https://treadstone71.substack.com)**
+* **[Review European Intelligence Summit Materials](https://www.treadstone71.com/is2)**
