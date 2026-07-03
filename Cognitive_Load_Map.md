@@ -1,4 +1,3 @@
-```markdown
 # Adversarial Cognitive Load Simulation (ACLS)
 
 Adversaries weaponize information friction. Threat actors overload decision nodes through swarming tactics. Analysts use the chart below to model how an organization processes sudden deception inputs.
@@ -7,14 +6,14 @@ Adversaries weaponize information friction. Threat actors overload decision node
 mindmap
   root((Decision Node))
     Verified Input
-    Technical Telemetry
-    Validated HUMINT
+      Technical Telemetry
+      Validated HUMINT
     Deception Input
-    Synthetic Media
-    False Attribution
+      Synthetic Media
+      False Attribution
     Cognitive Stressors
-    Time Compression
-    Authority Bias
+      Time Compression
+      Authority Bias
     Outcome
-    Containment Action
-    Reflexive Control Trap
+      Containment Action
+      Reflexive Control Trap
