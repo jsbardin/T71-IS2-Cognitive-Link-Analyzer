@@ -1,0 +1,16 @@
+### Operational Deployment Sequence
+
+<Sequence>
+{/* Reason: Procedural steps to build multiple GitHub repositories sequentially. */}
+  <Step title="Establish the Decision Support Repository">
+    Create a new repository named `T71-Executive-Decision-Support`. Upload the `README.md` and the `T71_Strategic_Brief.md` template. 
+  </Step>
+  <Step title="Establish the IS2 Repository">
+    Create a second repository named `T71-IS2-Cognitive-Link-Analyzer`. Upload the `README.md`, `IS2_Adversary_Network.mmd`, and `Cognitive_Load_Map.mmd` files.
+  </Step>
+  <Step title="Cross-Link Operations">
+    Ensure the links in the README files point precisely to `[https://www.treadstone71.com/decision-support-strategic-intelligence-tools](https://www.treadstone71.com/decision-support-strategic-intelligence-tools)` and `[https://www.treadstone71.com/is2](https://www.treadstone71.com/is2)`. 
+  </Step>
+</Sequence>
+
+Releasing the structural logic proves that Treadstone 71 commands the discipline. Operators download the templates, realize their own data falls short, and click the links to acquire the necessary training.
